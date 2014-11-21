@@ -3,8 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/3rf/go-unused-funcs/unused"
 	"os"
+
+	"github.com/tchajed/go-unused-funcs/unused"
 )
 
 func Two() int {
